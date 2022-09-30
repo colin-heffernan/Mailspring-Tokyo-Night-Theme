@@ -1,0 +1,13 @@
+{
+  "name": "mailspring-tokyo-night-theme",
+  "title": "Mailspring Tokyo Night Theme",
+  "displayName": "Tokyo Night",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "A dark theme for Mailspring based on Enkia's Tokyo Night theme for Visual Studio Code.",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
